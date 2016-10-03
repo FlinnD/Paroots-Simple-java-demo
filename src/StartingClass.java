@@ -6,6 +6,7 @@ import java.awt.Image;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.io.IOException;
+/*
 import java.io.InputStream;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutput;
@@ -17,7 +18,7 @@ import java.net.UnknownHostException;
 import java.util.ArrayList;
 import java.util.Random;
 
-
+*/
 
 public class StartingClass extends Applet implements Runnable, KeyListener {
 
